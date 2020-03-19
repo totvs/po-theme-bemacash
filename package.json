@@ -1,17 +1,17 @@
 {
-  "name": "@totvs/portinari-bemacash-theme",
+  "name": "@totvs/po-bemacash-theme",
   "version": "1.11.0",
   "author": "Totvs",
-  "description": "Portinari Theme - Totvs Bemacash Theme",
+  "description": "PO Theme - Totvs Bemacash Theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/totvs/portinari-theme-bemacash"
+    "url": "https://github.com/totvs/po-theme-bemacash"
   },
   "license": "MIT",
   "scripts": {
     "build": "po-theme build --fonts"
   },
   "devDependencies": {
-    "@portinari/style": "^1.11.0"
+    "@po/style": "^1.11.0"
   }
 }
